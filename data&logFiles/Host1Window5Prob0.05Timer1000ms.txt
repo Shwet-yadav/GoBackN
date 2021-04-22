@@ -54,5 +54,5 @@ Total volume of resent packets (in Bytes)                    : 6717
 
 Receiving summary in last 10 seconds
 Total fresh packets received                                 : 197
-Total volume of received packets (in Bytes)                  : 322321
+Total volume of received packets (in Bytes)                  : 32232
 **************************************************************************
